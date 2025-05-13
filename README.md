@@ -1,2 +1,2 @@
 # 3DFiles
-This is a collection of 3D Files from [https://karsyzrobotics.com](Karsyz Robotics)
+This is a collection of 3D Files from [Karsyz Robotics](https://karsyzrobotics.com)
